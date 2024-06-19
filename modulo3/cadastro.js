@@ -1,5 +1,5 @@
 const readline = require('readline')
-
+console.log('Olá')
 
 const rl = readline.createInterface({
     input: process.stdin,
